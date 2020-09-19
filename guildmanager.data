@@ -1,0 +1,15 @@
+{
+  "bans": {
+    "users": [],
+    "servers": {}
+  },
+  "infractions": {},
+  "newserverchannel": null,
+  "serverleavechannel": null,
+  "newservermessage": "Joined server {0.name}.",
+  "leaveservermessage": "Left server {0.name} (`{0.id}`).",
+  "maxservers": null,
+  "joinlock": false,
+  "queuejoins": false,
+  "first run": true
+}
